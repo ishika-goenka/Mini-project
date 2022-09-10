@@ -1,3 +1,8 @@
+html,body
+{
+margin:0;
+padding:0;
+}
 #plain{
 background-color: #d7ccc8;
 position: absolute;
@@ -8,22 +13,42 @@ width:100%;
 }
 #add-questions{
 position: absolute;
-left: 450px;
+left: 150px;
 top: 230px;
 }
 #manage-questions{
 position: absolute;
-left: 750px;
+left: 1050px;
 top: 230px;
 }
 #edit-questions{
 position: absolute;
 left: 450px;
-top: 450px;
+top: 230px;
 }
 #view-questions{
 position: absolute;
 left: 750px;
+top: 230px;
+}
+#add-solutions{
+position: absolute;
+left: 150px;
+top: 450px;
+}
+#view-solutions{
+position: absolute;
+left: 750px;
+top: 450px;
+}
+#edit-solutions{
+position: absolute;
+left: 450px;
+top: 450px;
+}
+#edit-userinfo{
+position: absolute;
+left: 1050px;
 top: 450px;
 }
 a:link {
