@@ -1,0 +1,7 @@
+body,head{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(315deg, #e8dbfc 0%, #f8f9d2 74%);
+}
